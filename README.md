@@ -1,7 +1,7 @@
 
 ### Olá 👋
 <!--<img src="banner.png" />-->
-https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white
+
 
 <!--
 **DevDiana/DevDiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
