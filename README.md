@@ -1,5 +1,6 @@
 
 ### Olá 👋
+<img src="/banner.png" />
 
 <!--
 **DevDiana/DevDiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
