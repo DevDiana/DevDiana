@@ -9,11 +9,11 @@
 
 ## About me 
 
-Minas Gerais and a lover of technology, I am 24 years old and I already work as a Freelancer Programmer, creator of content on the blog Notícias Nerds que created and on Youtube.
+Minas Gerais and lover of technology, I am 24 years old and already work as a Freelance Programmer.
 
-I live in the south of Minas Gerais and i have a higher course in Systems Analysis and Development. I hope to be a great professional in this area that is dominated by men.
+I live in the south of Minas Gerais and i do higher education in Systems Analysis and Development. I want to be a great professional in this area that is dominated by men.
 
-I like to read articles about technology, and spend my spare time acquiring new knowledge, always seeking to make a difference.
+I like to read articles about technology, and Spend my spare time acquiring new knowledge, always trying to make a difference.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diana-regina20/)](https://www.linkedin.com/in/diana-regina20/)
