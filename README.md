@@ -9,11 +9,11 @@
 
 ## About me 
 
-Minas Gerais and lover of technology, I am 24 years old and already work as a Freelance Programmer.
+Mining and technology lover, I'm 24 years old.
 
-I live in the south of Minas Gerais and i do higher education in Systems Analysis and Development. I want to be a great professional in this area that is dominated by men.
+I live in the South of Minas Gerais and do higher education in Systems Analysis and Development. I want to be a great professional in this area that is dominated by men.
 
-I like to read articles about technology, and Spend my spare time acquiring new knowledge, always trying to make a difference.
+I like to read articles about technology, and I spend my free time acquiring new knowledge, always trying to make a difference.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diana-regina20/)](https://www.linkedin.com/in/diana-regina20/)
