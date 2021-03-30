@@ -9,7 +9,7 @@
 
 ## About me 
 
-Mining and technology lover, I'm 24 years old.
+Mining and technology lover, I'm 25 years old.
 
 I live in the South of Minas Gerais and do higher education in Systems Analysis and Development. I want to be a great professional in this area that is dominated by men.
 
