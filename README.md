@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Diana</h1>
 <h3 align="center">A front-end developer passionate about technology</h3>
 
-- 🌱 I'm currently reinforcing my studies in Angular JavaScript and in the future **Java, Kotlin**
+- 🌱 I'm currently reinforcing my studies in Angular JavaScript and in the future **Java, Spring Boot**
 
 - 💬 Ask me about **Javascript, Angular**
 
